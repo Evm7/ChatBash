@@ -8,6 +8,6 @@
 As we can see, ChatClient uses Bash to ease the interaction of user.
 Main aspects in Bash style is the difference of users by colouring and also the fact that the written line is erased and printed as a message, also coloured, in order to make the reading comprehension easier.
 
-The importance of the project was based on the Pattern reactor and the initialitzation of Swing.
+The importance of the project was based on the Pattern reactor.
 Furthermore, there was a compulsory rule of creating two classes based on Socket and ServerSocket which only make try-catch statements in order not to throw exceptions.
 
