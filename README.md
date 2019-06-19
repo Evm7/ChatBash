@@ -1,5 +1,5 @@
 # ChatBash Project
-###2nd project for SAD Assignemnt of UPC Engineering of Telecomunicacions ETSETB.
+### 2nd project for SAD Assignemnt of UPC Engineering of Telecomunicacions ETSETB.
 
 #### ChatBash is a chat between multiple clients based on JAVA and one multi-threading Server.
   * Server is based on Selector NIO and Reactor pattern.
